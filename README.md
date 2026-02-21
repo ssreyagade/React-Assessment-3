@@ -1,3 +1,29 @@
+Here is a short and clean README description you can use:
+
+---
+
+# 📚 Student Course Portal
+
+The **Student Course Portal** is a ReactJS application built using **Class Components only**. It allows users to view a list of available courses and navigate to detailed course pages using React Router.
+
+The application demonstrates core React concepts such as:
+
+* Components
+* State Management
+* Props
+* Routing
+
+Users can:
+
+* View all courses on the Home page
+* Click **View Details** to see course description and information
+* See **Course Not Found** for invalid IDs
+* Navigate using a structured routing system
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
